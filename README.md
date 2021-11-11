@@ -1,5 +1,5 @@
 # notable-interview
 notable-interview
-npm install
+'npm install'
 then 
-nodemon
+'nodemon'
