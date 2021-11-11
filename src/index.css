@@ -9,6 +9,9 @@ body {
     display: inline-flex;
     cursor: pointer;
 }
+ol {
+    display: grid;
+}
  button {
     background: none;
     border: none;
